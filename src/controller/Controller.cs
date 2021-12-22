@@ -156,7 +156,7 @@ namespace Principal
         {
             string path = Environment.CurrentDirectory + "/" + _nameFile;
 
-
+            //This part of the code has a lock, since all tasks can use it at the same time and cause errors.
             lock (_control)
             {
                 if (!File.Exists(path))
