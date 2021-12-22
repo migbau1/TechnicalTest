@@ -1,0 +1,15 @@
+C:\Users\migue\Documents\projects\TechnicalTest\bin\Debug\net6.0\TechnicalTest.exe
+C:\Users\migue\Documents\projects\TechnicalTest\bin\Debug\net6.0\TechnicalTest.deps.json
+C:\Users\migue\Documents\projects\TechnicalTest\bin\Debug\net6.0\TechnicalTest.runtimeconfig.json
+C:\Users\migue\Documents\projects\TechnicalTest\bin\Debug\net6.0\TechnicalTest.dll
+C:\Users\migue\Documents\projects\TechnicalTest\bin\Debug\net6.0\ref\TechnicalTest.dll
+C:\Users\migue\Documents\projects\TechnicalTest\bin\Debug\net6.0\TechnicalTest.pdb
+C:\Users\migue\Documents\projects\TechnicalTest\obj\Debug\net6.0\TechnicalTest.csproj.AssemblyReference.cache
+C:\Users\migue\Documents\projects\TechnicalTest\obj\Debug\net6.0\TechnicalTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Documents\projects\TechnicalTest\obj\Debug\net6.0\TechnicalTest.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\projects\TechnicalTest\obj\Debug\net6.0\TechnicalTest.AssemblyInfo.cs
+C:\Users\migue\Documents\projects\TechnicalTest\obj\Debug\net6.0\TechnicalTest.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\projects\TechnicalTest\obj\Debug\net6.0\TechnicalTest.dll
+C:\Users\migue\Documents\projects\TechnicalTest\obj\Debug\net6.0\ref\TechnicalTest.dll
+C:\Users\migue\Documents\projects\TechnicalTest\obj\Debug\net6.0\TechnicalTest.pdb
+C:\Users\migue\Documents\projects\TechnicalTest\obj\Debug\net6.0\TechnicalTest.genruntimeconfig.cache
