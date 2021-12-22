@@ -5,20 +5,17 @@ namespace Principal
 {
     class Controller : IController
     {
-        //randon number declaration
-        private readonly Random _random;
         private string _nameFile;
         private object _control;
 
         public Controller()
         {
-            _random = new Random();
             _nameFile = "resultado.txt";
             _control = new Object();
         }
 
-        //first task
-        public void task1(string texto)
+        //Letter Counter N
+        public void LetterCounterN(string texto)
         {
             Stopwatch stopWatch = new Stopwatch();
             stopWatch.Start();
@@ -42,8 +39,8 @@ namespace Principal
             ts.Milliseconds / 10);
         }
 
-        //second task
-        public void task2(string texto)
+        //sentences Counter
+        public void sentencesCounter(string texto)
         {
             Stopwatch stopWatch = new Stopwatch();
             stopWatch.Start();
@@ -83,8 +80,8 @@ namespace Principal
             ts.Milliseconds / 10);
         }
 
-        //third task
-        public void task3(string texto)
+        //paragraph Counter
+        public void paragraphCounter(string texto)
         {
             Stopwatch stopWatch = new Stopwatch();
             stopWatch.Start();
@@ -124,8 +121,8 @@ namespace Principal
             ts.Milliseconds / 10);
         }
 
-        //four task
-        public void task4(string texto)
+        //alphanumeric Counter
+        public void alphanumericCounter(string texto)
         {
             Stopwatch stopWatch = new Stopwatch();
             stopWatch.Start();

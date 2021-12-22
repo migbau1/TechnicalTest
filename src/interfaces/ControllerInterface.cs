@@ -3,10 +3,10 @@ namespace Principal
     interface IController
     {
 
-        void task1(string texto);
-        void task2(string texto);
-        void task3(string texto);
-        void task4(string texto);
+        void LetterCounterN(string texto);
+        void sentencesCounter(string texto);
+        void paragraphCounter(string texto);
+        void alphanumericCounter(string texto);
 
     }
 }

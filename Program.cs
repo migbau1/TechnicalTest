@@ -26,10 +26,10 @@ namespace Principal
 
                 //execute in parallel all tasks
                 Parallel.Invoke(
-                    () => tasks.task1(txt),
-                    () => tasks.task2(txt),
-                    () => tasks.task3(txt),
-                    () => tasks.task4(txt));
+                    () => tasks.LetterCounterN(txt),
+                    () => tasks.sentencesCounter(txt),
+                    () => tasks.paragraphCounter(txt),
+                    () => tasks.alphanumericCounter(txt));
             }
 
         }
