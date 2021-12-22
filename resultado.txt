@@ -1,8 +1,0 @@
-﻿El Numero de Veces que aparace la letra 'n' son: 53963 
-
-El numero de oraciones con mas de 15 caracteres son: 2216 
-
-El numero de parrafos  son: 1391 
-
-El numero de caracteres alfanumericos son: 747819 
-
